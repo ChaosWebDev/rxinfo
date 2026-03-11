@@ -28,21 +28,18 @@ class Request
 
             $results = (new MedicationSearch())->search($query);
 
-            http_response_code(200);
             return new Response(results: $results);
 
         } catch (InvalidSearchException $e) {
-            http_response_code(400);
-            return new Response(results: ['error' => $e->getMessage()]);
+            return new Response(results: ['error' => $e->getMessage()], responseCode: 400);
         } catch (\Throwable $e) {
-            http_response_code(500);
-            return new Response(results: ['error' => 'An unexpected error occurred.']);
+            return new Response(results: ['error' => 'An unexpected error occurred.'], responseCode: 500);
         }
     }
 
     private function validate(?string $query): void
     {
-        if (!isset($query) || empty($query)) {
+        if ($query === null || $query === '') {
             throw new InvalidSearchException(
                 "Invalid search. Please use search key of 'q'."
             );

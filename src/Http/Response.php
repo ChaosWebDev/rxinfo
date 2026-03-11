@@ -8,12 +8,19 @@ class Response
 {
     use Serializable;
 
-    public function __construct(public $results)
-    {
+
+    public function __construct(
+        public array|object $results,
+        public int $responseCode = 200
+    ) {
+
     }
 
-    public function send()
+    public function send(): void
     {
-        return $this->toJson() ?? null;
+        http_response_code($this->responseCode);
+        header('Content-Type: application/json');
+
+        echo $this->toJson();
     }
 }
