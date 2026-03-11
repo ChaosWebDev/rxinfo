@@ -9,7 +9,6 @@ $response = $request->handle();
 
 $test = json_decode($response->send(), true)['results'];
 
-foreach ($test as $med) {
-    var_dump($med);
-    echo "<br><br>";
-}
+echo "<pre>";
+print_r($test);
+echo "</pre>";
