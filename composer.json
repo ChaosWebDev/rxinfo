@@ -1,0 +1,19 @@
+{
+    "name": "chaoswd/rxinfo",
+    "description": "API for Prescription Data. Seek medical professional for medical advice. This is information only and not guaranteed.",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Chaoswd\\RxInfo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jordan Gerber",
+            "email": "jordangerber@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "license": "proprietary",
+    "require": {}
+}
