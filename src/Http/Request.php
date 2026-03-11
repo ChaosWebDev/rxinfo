@@ -28,18 +28,15 @@ class Request
 
             $results = (new MedicationSearch())->search($query);
 
+            http_response_code(200);
             return new Response(results: $results);
 
         } catch (InvalidSearchException $e) {
-            return new Response(results: [
-                'error' => $e->getMessage(),
-                'statusCode' => 400
-            ]);
+            http_response_code(400);
+            return new Response(results: ['error' => $e->getMessage()]);
         } catch (\Throwable $e) {
-            return new Response(results: [
-                'error' => 'An unexpected error occurred.',
-                'statusCode' => 500
-            ]);
+            http_response_code(500);
+            return new Response(results: ['error' => 'An unexpected error occurred.']);
         }
     }
 
