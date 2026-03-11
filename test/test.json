@@ -1,0 +1,1312 @@
+[
+    {
+        "rxuin": 1,
+        "name": "Adderall",
+        "strength_mg": 5,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Adderall"
+        ],
+        "classes": [
+            "CNS Stimulant"
+        ]
+    },
+    {
+        "rxuin": 2,
+        "name": "Adderall",
+        "strength_mg": 10,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Adderall"
+        ],
+        "classes": [
+            "CNS Stimulant"
+        ]
+    },
+    {
+        "rxuin": 3,
+        "name": "Adderall",
+        "strength_mg": 15,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Adderall"
+        ],
+        "classes": [
+            "CNS Stimulant"
+        ]
+    },
+    {
+        "rxuin": 4,
+        "name": "Adderall",
+        "strength_mg": 20,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Adderall"
+        ],
+        "classes": [
+            "CNS Stimulant"
+        ]
+    },
+    {
+        "rxuin": 5,
+        "name": "Adderall",
+        "strength_mg": 30,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Adderall"
+        ],
+        "classes": [
+            "CNS Stimulant"
+        ]
+    },
+    {
+        "rxuin": 6,
+        "name": "Ibuprofen",
+        "strength_mg": 200,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Advil",
+            "Motrin"
+        ],
+        "classes": [
+            "NSAID"
+        ]
+    },
+    {
+        "rxuin": 7,
+        "name": "Ibuprofen",
+        "strength_mg": 400,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Advil",
+            "Motrin"
+        ],
+        "classes": [
+            "NSAID"
+        ]
+    },
+    {
+        "rxuin": 8,
+        "name": "Ibuprofen",
+        "strength_mg": 600,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Advil",
+            "Motrin"
+        ],
+        "classes": [
+            "NSAID"
+        ]
+    },
+    {
+        "rxuin": 9,
+        "name": "Ibuprofen",
+        "strength_mg": 800,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Advil",
+            "Motrin"
+        ],
+        "classes": [
+            "NSAID"
+        ]
+    },
+    {
+        "rxuin": 10,
+        "name": "Ibuprofen",
+        "strength_mg": 100,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Advil",
+            "Motrin"
+        ],
+        "classes": [
+            "NSAID"
+        ]
+    },
+    {
+        "rxuin": 11,
+        "name": "Acetaminophen",
+        "strength_mg": 325,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Tylenol"
+        ],
+        "classes": [
+            "Analgesic"
+        ]
+    },
+    {
+        "rxuin": 12,
+        "name": "Acetaminophen",
+        "strength_mg": 500,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Tylenol"
+        ],
+        "classes": [
+            "Analgesic"
+        ]
+    },
+    {
+        "rxuin": 13,
+        "name": "Acetaminophen",
+        "strength_mg": 650,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Tylenol"
+        ],
+        "classes": [
+            "Analgesic"
+        ]
+    },
+    {
+        "rxuin": 14,
+        "name": "Acetaminophen",
+        "strength_mg": 750,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Tylenol"
+        ],
+        "classes": [
+            "Analgesic"
+        ]
+    },
+    {
+        "rxuin": 15,
+        "name": "Acetaminophen",
+        "strength_mg": 1000,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Tylenol"
+        ],
+        "classes": [
+            "Analgesic"
+        ]
+    },
+    {
+        "rxuin": 16,
+        "name": "Sertraline",
+        "strength_mg": 25,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Zoloft"
+        ],
+        "classes": [
+            "SSRI"
+        ]
+    },
+    {
+        "rxuin": 17,
+        "name": "Sertraline",
+        "strength_mg": 50,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Zoloft"
+        ],
+        "classes": [
+            "SSRI"
+        ]
+    },
+    {
+        "rxuin": 18,
+        "name": "Sertraline",
+        "strength_mg": 75,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Zoloft"
+        ],
+        "classes": [
+            "SSRI"
+        ]
+    },
+    {
+        "rxuin": 19,
+        "name": "Sertraline",
+        "strength_mg": 100,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Zoloft"
+        ],
+        "classes": [
+            "SSRI"
+        ]
+    },
+    {
+        "rxuin": 20,
+        "name": "Sertraline",
+        "strength_mg": 150,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Zoloft"
+        ],
+        "classes": [
+            "SSRI"
+        ]
+    },
+    {
+        "rxuin": 21,
+        "name": "Fluoxetine",
+        "strength_mg": 10,
+        "doseForm": "capsule",
+        "route": "oral",
+        "brandNames": [
+            "Prozac"
+        ],
+        "classes": [
+            "SSRI"
+        ]
+    },
+    {
+        "rxuin": 22,
+        "name": "Fluoxetine",
+        "strength_mg": 20,
+        "doseForm": "capsule",
+        "route": "oral",
+        "brandNames": [
+            "Prozac"
+        ],
+        "classes": [
+            "SSRI"
+        ]
+    },
+    {
+        "rxuin": 23,
+        "name": "Fluoxetine",
+        "strength_mg": 30,
+        "doseForm": "capsule",
+        "route": "oral",
+        "brandNames": [
+            "Prozac"
+        ],
+        "classes": [
+            "SSRI"
+        ]
+    },
+    {
+        "rxuin": 24,
+        "name": "Fluoxetine",
+        "strength_mg": 40,
+        "doseForm": "capsule",
+        "route": "oral",
+        "brandNames": [
+            "Prozac"
+        ],
+        "classes": [
+            "SSRI"
+        ]
+    },
+    {
+        "rxuin": 25,
+        "name": "Fluoxetine",
+        "strength_mg": 60,
+        "doseForm": "capsule",
+        "route": "oral",
+        "brandNames": [
+            "Prozac"
+        ],
+        "classes": [
+            "SSRI"
+        ]
+    },
+    {
+        "rxuin": 26,
+        "name": "Lisinopril",
+        "strength_mg": 2.5,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Prinivil",
+            "Zestril"
+        ],
+        "classes": [
+            "ACE Inhibitor"
+        ]
+    },
+    {
+        "rxuin": 27,
+        "name": "Lisinopril",
+        "strength_mg": 5,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Prinivil",
+            "Zestril"
+        ],
+        "classes": [
+            "ACE Inhibitor"
+        ]
+    },
+    {
+        "rxuin": 28,
+        "name": "Lisinopril",
+        "strength_mg": 10,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Prinivil",
+            "Zestril"
+        ],
+        "classes": [
+            "ACE Inhibitor"
+        ]
+    },
+    {
+        "rxuin": 29,
+        "name": "Lisinopril",
+        "strength_mg": 20,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Prinivil",
+            "Zestril"
+        ],
+        "classes": [
+            "ACE Inhibitor"
+        ]
+    },
+    {
+        "rxuin": 30,
+        "name": "Lisinopril",
+        "strength_mg": 40,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Prinivil",
+            "Zestril"
+        ],
+        "classes": [
+            "ACE Inhibitor"
+        ]
+    },
+    {
+        "rxuin": 31,
+        "name": "Metformin",
+        "strength_mg": 500,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Glucophage"
+        ],
+        "classes": [
+            "Biguanide"
+        ]
+    },
+    {
+        "rxuin": 32,
+        "name": "Metformin",
+        "strength_mg": 750,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Glucophage"
+        ],
+        "classes": [
+            "Biguanide"
+        ]
+    },
+    {
+        "rxuin": 33,
+        "name": "Metformin",
+        "strength_mg": 850,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Glucophage"
+        ],
+        "classes": [
+            "Biguanide"
+        ]
+    },
+    {
+        "rxuin": 34,
+        "name": "Metformin",
+        "strength_mg": 1000,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Glucophage"
+        ],
+        "classes": [
+            "Biguanide"
+        ]
+    },
+    {
+        "rxuin": 35,
+        "name": "Metformin",
+        "strength_mg": 1500,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Glucophage"
+        ],
+        "classes": [
+            "Biguanide"
+        ]
+    },
+    {
+        "rxuin": 36,
+        "name": "Atorvastatin",
+        "strength_mg": 10,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Lipitor"
+        ],
+        "classes": [
+            "Statin"
+        ]
+    },
+    {
+        "rxuin": 37,
+        "name": "Atorvastatin",
+        "strength_mg": 20,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Lipitor"
+        ],
+        "classes": [
+            "Statin"
+        ]
+    },
+    {
+        "rxuin": 38,
+        "name": "Atorvastatin",
+        "strength_mg": 40,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Lipitor"
+        ],
+        "classes": [
+            "Statin"
+        ]
+    },
+    {
+        "rxuin": 39,
+        "name": "Atorvastatin",
+        "strength_mg": 60,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Lipitor"
+        ],
+        "classes": [
+            "Statin"
+        ]
+    },
+    {
+        "rxuin": 40,
+        "name": "Atorvastatin",
+        "strength_mg": 80,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Lipitor"
+        ],
+        "classes": [
+            "Statin"
+        ]
+    },
+    {
+        "rxuin": 41,
+        "name": "Amoxicillin",
+        "strength_mg": 250,
+        "doseForm": "capsule",
+        "route": "oral",
+        "brandNames": [
+            "Amoxil"
+        ],
+        "classes": [
+            "Antibiotic"
+        ]
+    },
+    {
+        "rxuin": 42,
+        "name": "Amoxicillin",
+        "strength_mg": 500,
+        "doseForm": "capsule",
+        "route": "oral",
+        "brandNames": [
+            "Amoxil"
+        ],
+        "classes": [
+            "Antibiotic"
+        ]
+    },
+    {
+        "rxuin": 43,
+        "name": "Amoxicillin",
+        "strength_mg": 750,
+        "doseForm": "capsule",
+        "route": "oral",
+        "brandNames": [
+            "Amoxil"
+        ],
+        "classes": [
+            "Antibiotic"
+        ]
+    },
+    {
+        "rxuin": 44,
+        "name": "Amoxicillin",
+        "strength_mg": 875,
+        "doseForm": "capsule",
+        "route": "oral",
+        "brandNames": [
+            "Amoxil"
+        ],
+        "classes": [
+            "Antibiotic"
+        ]
+    },
+    {
+        "rxuin": 45,
+        "name": "Amoxicillin",
+        "strength_mg": 1000,
+        "doseForm": "capsule",
+        "route": "oral",
+        "brandNames": [
+            "Amoxil"
+        ],
+        "classes": [
+            "Antibiotic"
+        ]
+    },
+    {
+        "rxuin": 46,
+        "name": "Azithromycin",
+        "strength_mg": 250,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Zithromax"
+        ],
+        "classes": [
+            "Antibiotic"
+        ]
+    },
+    {
+        "rxuin": 47,
+        "name": "Azithromycin",
+        "strength_mg": 500,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Zithromax"
+        ],
+        "classes": [
+            "Antibiotic"
+        ]
+    },
+    {
+        "rxuin": 48,
+        "name": "Azithromycin",
+        "strength_mg": 600,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Zithromax"
+        ],
+        "classes": [
+            "Antibiotic"
+        ]
+    },
+    {
+        "rxuin": 49,
+        "name": "Azithromycin",
+        "strength_mg": 750,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Zithromax"
+        ],
+        "classes": [
+            "Antibiotic"
+        ]
+    },
+    {
+        "rxuin": 50,
+        "name": "Azithromycin",
+        "strength_mg": 1000,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Zithromax"
+        ],
+        "classes": [
+            "Antibiotic"
+        ]
+    },
+    {
+        "rxuin": 51,
+        "name": "Alprazolam",
+        "strength_mg": 0.25,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Xanax"
+        ],
+        "classes": [
+            "Benzodiazepine"
+        ]
+    },
+    {
+        "rxuin": 52,
+        "name": "Alprazolam",
+        "strength_mg": 0.5,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Xanax"
+        ],
+        "classes": [
+            "Benzodiazepine"
+        ]
+    },
+    {
+        "rxuin": 53,
+        "name": "Alprazolam",
+        "strength_mg": 1,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Xanax"
+        ],
+        "classes": [
+            "Benzodiazepine"
+        ]
+    },
+    {
+        "rxuin": 54,
+        "name": "Alprazolam",
+        "strength_mg": 2,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Xanax"
+        ],
+        "classes": [
+            "Benzodiazepine"
+        ]
+    },
+    {
+        "rxuin": 55,
+        "name": "Alprazolam",
+        "strength_mg": 3,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Xanax"
+        ],
+        "classes": [
+            "Benzodiazepine"
+        ]
+    },
+    {
+        "rxuin": 56,
+        "name": "Clonazepam",
+        "strength_mg": 0.25,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Klonopin"
+        ],
+        "classes": [
+            "Benzodiazepine"
+        ]
+    },
+    {
+        "rxuin": 57,
+        "name": "Clonazepam",
+        "strength_mg": 0.5,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Klonopin"
+        ],
+        "classes": [
+            "Benzodiazepine"
+        ]
+    },
+    {
+        "rxuin": 58,
+        "name": "Clonazepam",
+        "strength_mg": 1,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Klonopin"
+        ],
+        "classes": [
+            "Benzodiazepine"
+        ]
+    },
+    {
+        "rxuin": 59,
+        "name": "Clonazepam",
+        "strength_mg": 1.5,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Klonopin"
+        ],
+        "classes": [
+            "Benzodiazepine"
+        ]
+    },
+    {
+        "rxuin": 60,
+        "name": "Clonazepam",
+        "strength_mg": 2,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Klonopin"
+        ],
+        "classes": [
+            "Benzodiazepine"
+        ]
+    },
+    {
+        "rxuin": 61,
+        "name": "Gabapentin",
+        "strength_mg": 100,
+        "doseForm": "capsule",
+        "route": "oral",
+        "brandNames": [
+            "Neurontin"
+        ],
+        "classes": [
+            "Anticonvulsant"
+        ]
+    },
+    {
+        "rxuin": 62,
+        "name": "Gabapentin",
+        "strength_mg": 300,
+        "doseForm": "capsule",
+        "route": "oral",
+        "brandNames": [
+            "Neurontin"
+        ],
+        "classes": [
+            "Anticonvulsant"
+        ]
+    },
+    {
+        "rxuin": 63,
+        "name": "Gabapentin",
+        "strength_mg": 400,
+        "doseForm": "capsule",
+        "route": "oral",
+        "brandNames": [
+            "Neurontin"
+        ],
+        "classes": [
+            "Anticonvulsant"
+        ]
+    },
+    {
+        "rxuin": 64,
+        "name": "Gabapentin",
+        "strength_mg": 600,
+        "doseForm": "capsule",
+        "route": "oral",
+        "brandNames": [
+            "Neurontin"
+        ],
+        "classes": [
+            "Anticonvulsant"
+        ]
+    },
+    {
+        "rxuin": 65,
+        "name": "Gabapentin",
+        "strength_mg": 800,
+        "doseForm": "capsule",
+        "route": "oral",
+        "brandNames": [
+            "Neurontin"
+        ],
+        "classes": [
+            "Anticonvulsant"
+        ]
+    },
+    {
+        "rxuin": 66,
+        "name": "Prednisone",
+        "strength_mg": 1,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Deltasone"
+        ],
+        "classes": [
+            "Corticosteroid"
+        ]
+    },
+    {
+        "rxuin": 67,
+        "name": "Prednisone",
+        "strength_mg": 5,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Deltasone"
+        ],
+        "classes": [
+            "Corticosteroid"
+        ]
+    },
+    {
+        "rxuin": 68,
+        "name": "Prednisone",
+        "strength_mg": 10,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Deltasone"
+        ],
+        "classes": [
+            "Corticosteroid"
+        ]
+    },
+    {
+        "rxuin": 69,
+        "name": "Prednisone",
+        "strength_mg": 20,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Deltasone"
+        ],
+        "classes": [
+            "Corticosteroid"
+        ]
+    },
+    {
+        "rxuin": 70,
+        "name": "Prednisone",
+        "strength_mg": 50,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Deltasone"
+        ],
+        "classes": [
+            "Corticosteroid"
+        ]
+    },
+    {
+        "rxuin": 71,
+        "name": "Levothyroxine",
+        "strength_mg": 25,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Synthroid"
+        ],
+        "classes": [
+            "Thyroid Hormone"
+        ]
+    },
+    {
+        "rxuin": 72,
+        "name": "Levothyroxine",
+        "strength_mg": 50,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Synthroid"
+        ],
+        "classes": [
+            "Thyroid Hormone"
+        ]
+    },
+    {
+        "rxuin": 73,
+        "name": "Levothyroxine",
+        "strength_mg": 75,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Synthroid"
+        ],
+        "classes": [
+            "Thyroid Hormone"
+        ]
+    },
+    {
+        "rxuin": 74,
+        "name": "Levothyroxine",
+        "strength_mg": 100,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Synthroid"
+        ],
+        "classes": [
+            "Thyroid Hormone"
+        ]
+    },
+    {
+        "rxuin": 75,
+        "name": "Levothyroxine",
+        "strength_mg": 125,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Synthroid"
+        ],
+        "classes": [
+            "Thyroid Hormone"
+        ]
+    },
+    {
+        "rxuin": 76,
+        "name": "Omeprazole",
+        "strength_mg": 10,
+        "doseForm": "capsule",
+        "route": "oral",
+        "brandNames": [
+            "Prilosec"
+        ],
+        "classes": [
+            "Proton Pump Inhibitor"
+        ]
+    },
+    {
+        "rxuin": 77,
+        "name": "Omeprazole",
+        "strength_mg": 20,
+        "doseForm": "capsule",
+        "route": "oral",
+        "brandNames": [
+            "Prilosec"
+        ],
+        "classes": [
+            "Proton Pump Inhibitor"
+        ]
+    },
+    {
+        "rxuin": 78,
+        "name": "Omeprazole",
+        "strength_mg": 30,
+        "doseForm": "capsule",
+        "route": "oral",
+        "brandNames": [
+            "Prilosec"
+        ],
+        "classes": [
+            "Proton Pump Inhibitor"
+        ]
+    },
+    {
+        "rxuin": 79,
+        "name": "Omeprazole",
+        "strength_mg": 40,
+        "doseForm": "capsule",
+        "route": "oral",
+        "brandNames": [
+            "Prilosec"
+        ],
+        "classes": [
+            "Proton Pump Inhibitor"
+        ]
+    },
+    {
+        "rxuin": 80,
+        "name": "Omeprazole",
+        "strength_mg": 60,
+        "doseForm": "capsule",
+        "route": "oral",
+        "brandNames": [
+            "Prilosec"
+        ],
+        "classes": [
+            "Proton Pump Inhibitor"
+        ]
+    },
+    {
+        "rxuin": 81,
+        "name": "Losartan",
+        "strength_mg": 25,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Cozaar"
+        ],
+        "classes": [
+            "ARB"
+        ]
+    },
+    {
+        "rxuin": 82,
+        "name": "Losartan",
+        "strength_mg": 50,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Cozaar"
+        ],
+        "classes": [
+            "ARB"
+        ]
+    },
+    {
+        "rxuin": 83,
+        "name": "Losartan",
+        "strength_mg": 75,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Cozaar"
+        ],
+        "classes": [
+            "ARB"
+        ]
+    },
+    {
+        "rxuin": 84,
+        "name": "Losartan",
+        "strength_mg": 100,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Cozaar"
+        ],
+        "classes": [
+            "ARB"
+        ]
+    },
+    {
+        "rxuin": 85,
+        "name": "Losartan",
+        "strength_mg": 150,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Cozaar"
+        ],
+        "classes": [
+            "ARB"
+        ]
+    },
+    {
+        "rxuin": 86,
+        "name": "Hydrochlorothiazide",
+        "strength_mg": 12.5,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Microzide"
+        ],
+        "classes": [
+            "Diuretic"
+        ]
+    },
+    {
+        "rxuin": 87,
+        "name": "Hydrochlorothiazide",
+        "strength_mg": 25,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Microzide"
+        ],
+        "classes": [
+            "Diuretic"
+        ]
+    },
+    {
+        "rxuin": 88,
+        "name": "Hydrochlorothiazide",
+        "strength_mg": 37.5,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Microzide"
+        ],
+        "classes": [
+            "Diuretic"
+        ]
+    },
+    {
+        "rxuin": 89,
+        "name": "Hydrochlorothiazide",
+        "strength_mg": 50,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Microzide"
+        ],
+        "classes": [
+            "Diuretic"
+        ]
+    },
+    {
+        "rxuin": 90,
+        "name": "Hydrochlorothiazide",
+        "strength_mg": 100,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Microzide"
+        ],
+        "classes": [
+            "Diuretic"
+        ]
+    },
+    {
+        "rxuin": 91,
+        "name": "Citalopram",
+        "strength_mg": 10,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Celexa"
+        ],
+        "classes": [
+            "SSRI"
+        ]
+    },
+    {
+        "rxuin": 92,
+        "name": "Citalopram",
+        "strength_mg": 20,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Celexa"
+        ],
+        "classes": [
+            "SSRI"
+        ]
+    },
+    {
+        "rxuin": 93,
+        "name": "Citalopram",
+        "strength_mg": 30,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Celexa"
+        ],
+        "classes": [
+            "SSRI"
+        ]
+    },
+    {
+        "rxuin": 94,
+        "name": "Citalopram",
+        "strength_mg": 40,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Celexa"
+        ],
+        "classes": [
+            "SSRI"
+        ]
+    },
+    {
+        "rxuin": 95,
+        "name": "Citalopram",
+        "strength_mg": 60,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Celexa"
+        ],
+        "classes": [
+            "SSRI"
+        ]
+    },
+    {
+        "rxuin": 96,
+        "name": "Escitalopram",
+        "strength_mg": 5,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Lexapro"
+        ],
+        "classes": [
+            "SSRI"
+        ]
+    },
+    {
+        "rxuin": 97,
+        "name": "Escitalopram",
+        "strength_mg": 10,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Lexapro"
+        ],
+        "classes": [
+            "SSRI"
+        ]
+    },
+    {
+        "rxuin": 98,
+        "name": "Escitalopram",
+        "strength_mg": 15,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Lexapro"
+        ],
+        "classes": [
+            "SSRI"
+        ]
+    },
+    {
+        "rxuin": 99,
+        "name": "Escitalopram",
+        "strength_mg": 20,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Lexapro"
+        ],
+        "classes": [
+            "SSRI"
+        ]
+    },
+    {
+        "rxuin": 100,
+        "name": "Escitalopram",
+        "strength_mg": 30,
+        "doseForm": "tablet",
+        "route": "oral",
+        "brandNames": [
+            "Lexapro"
+        ],
+        "classes": [
+            "SSRI"
+        ]
+    }
+]
