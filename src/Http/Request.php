@@ -27,10 +27,10 @@ class Request
             $results = (new MedicationSearch())->search($query);
 
             return new Response(
-                query:$query,
+                query: $query,
                 count: count($results),
                 results: $results,
-                );
+            );
 
         } catch (InvalidSearchException $e) {
             return new Response(results: ['error' => $e->getMessage()], responseCode: 400);
