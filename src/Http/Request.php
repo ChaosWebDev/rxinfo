@@ -5,8 +5,6 @@ namespace Chaoswd\RxInfo\Http;
 use Chaoswd\RxInfo\Exceptions\InvalidSearchException;
 use Chaoswd\RxInfo\Services\MedicationSearch;
 
-
-
 class Request
 {
     protected array $query;
@@ -28,7 +26,11 @@ class Request
 
             $results = (new MedicationSearch())->search($query);
 
-            return new Response(results: $results);
+            return new Response(
+                query:$query,
+                count: count($results),
+                results: $results,
+                );
 
         } catch (InvalidSearchException $e) {
             return new Response(results: ['error' => $e->getMessage()], responseCode: 400);

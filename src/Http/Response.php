@@ -10,6 +10,8 @@ class Response
 
 
     public function __construct(
+        public ?string $query = null,
+        public ?int $count = 0,
         public array|object $results,
         public int $responseCode = 200
     ) {
