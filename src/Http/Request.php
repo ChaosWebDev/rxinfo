@@ -31,16 +31,19 @@ class Request
             return new Response(results: $results);
 
         } catch (InvalidSearchException $e) {
-
             return new Response(results: [
                 'error' => $e->getMessage(),
                 'statusCode' => 400
             ]);
-
+        } catch (\Throwable $e) {
+            return new Response(results: [
+                'error' => 'An unexpected error occurred.',
+                'statusCode' => 500
+            ]);
         }
     }
 
-    private function validate($query): void
+    private function validate(?string $query): void
     {
         if (!isset($query) || empty($query)) {
             throw new InvalidSearchException(
