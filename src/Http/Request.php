@@ -2,6 +2,7 @@
 
 namespace Chaoswd\RxInfo\Http;
 
+use Chaoswd\RxInfo\Exceptions\InvalidSearchException;
 use Chaoswd\RxInfo\Services\MedicationSearch;
 
 
@@ -18,12 +19,33 @@ class Request
         return $instance;
     }
 
-    public function handle()
+    public function handle(): Response
     {
-        $query = $this->query['q'] ?? null;
+        try {
+            $query = isset($this->query['q']) ? trim($this->query['q']) : null;
 
-        $results = (new MedicationSearch())->search($query);
+            $this->validate($query);
 
-        return new Response($results);
+            $results = (new MedicationSearch())->search($query);
+
+            return new Response(results: $results);
+
+        } catch (InvalidSearchException $e) {
+
+            return new Response(results: [
+                'error' => $e->getMessage(),
+                'statusCode' => 400
+            ]);
+
+        }
+    }
+
+    private function validate($query): void
+    {
+        if (!isset($query) || empty($query)) {
+            throw new InvalidSearchException(
+                "Invalid search. Please use search key of 'q'."
+            );
+        }
     }
 }
