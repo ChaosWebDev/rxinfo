@@ -7,9 +7,12 @@ use Chaoswd\RxInfo\Traits\Serializable;
 class Response
 {
     use Serializable;
-    public static $response;
 
-    public function handle()
+    public function __construct(public $results)
+    {
+    }
+
+    public function send()
     {
         return $this->toJson() ?? null;
     }
